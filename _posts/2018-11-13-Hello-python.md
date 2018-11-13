@@ -8,4 +8,3 @@
 
 -동적타이핑(Dynamic Typing)
 
-![enter image description here](https://imgur.com/t/python_programing/mARr6)
